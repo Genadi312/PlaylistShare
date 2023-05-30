@@ -1,0 +1,12 @@
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\bin\Debug\net6.0\PlaylistShare.Models.deps.json
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\bin\Debug\net6.0\PlaylistShare.Models.dll
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\bin\Debug\net6.0\PlaylistShare.Models.pdb
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\PlaylistShare.Models.csproj.AssemblyReference.cache
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\PlaylistShare.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\PlaylistShare.Models.AssemblyInfoInputs.cache
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\PlaylistShare.Models.AssemblyInfo.cs
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\PlaylistShare.Models.csproj.CoreCompileInputs.cache
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\PlaylistShare.Models.dll
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\refint\PlaylistShare.Models.dll
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\PlaylistShare.Models.pdb
+C:\Users\Genadi\Desktop\C# UniProject\PlaylistShare\PlaylistShare.Models\obj\Debug\net6.0\ref\PlaylistShare.Models.dll

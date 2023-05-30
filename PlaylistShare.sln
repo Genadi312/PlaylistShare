@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaylistShare", "PlaylistShare\PlaylistShare.csproj", "{F1A6DC73-0CC8-4688-B3D3-41E2CF9B3975}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3AB1E941-6553-4757-8C17-F1B674756E0E}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaylistShare.DL", "PlaylistShare.DL\PlaylistShare.DL.csproj", "{8BCF801A-EF00-44E9-A480-40DF29C7A768}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaylistShare.Models", "PlaylistShare.Models\PlaylistShare.Models.csproj", "{223FB262-4112-4F37-B659-209D22AF53B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaylistShare.BL", "PlaylistShare.BL\PlaylistShare.BL.csproj", "{C50982CE-D10A-40B9-B3E1-3038C057CE11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlaylistShare.Tests", "PlaylistShare.Tests\PlaylistShare.Tests.csproj", "{B4D6D443-2E3B-42AF-B95A-25C088CF0F29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A6DC73-0CC8-4688-B3D3-41E2CF9B3975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A6DC73-0CC8-4688-B3D3-41E2CF9B3975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A6DC73-0CC8-4688-B3D3-41E2CF9B3975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A6DC73-0CC8-4688-B3D3-41E2CF9B3975}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCF801A-EF00-44E9-A480-40DF29C7A768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCF801A-EF00-44E9-A480-40DF29C7A768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCF801A-EF00-44E9-A480-40DF29C7A768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCF801A-EF00-44E9-A480-40DF29C7A768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223FB262-4112-4F37-B659-209D22AF53B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223FB262-4112-4F37-B659-209D22AF53B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223FB262-4112-4F37-B659-209D22AF53B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223FB262-4112-4F37-B659-209D22AF53B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50982CE-D10A-40B9-B3E1-3038C057CE11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50982CE-D10A-40B9-B3E1-3038C057CE11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50982CE-D10A-40B9-B3E1-3038C057CE11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50982CE-D10A-40B9-B3E1-3038C057CE11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D6D443-2E3B-42AF-B95A-25C088CF0F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D6D443-2E3B-42AF-B95A-25C088CF0F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D6D443-2E3B-42AF-B95A-25C088CF0F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D6D443-2E3B-42AF-B95A-25C088CF0F29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F9BBFE-788A-43FB-8751-EB3E99FF9068}
+	EndGlobalSection
+EndGlobal
