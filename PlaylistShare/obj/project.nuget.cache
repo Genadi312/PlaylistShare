@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zz+sfVusfoPiLI6iESTh5+AOv9WdloGTGP0nzIhYEYglCCHN1okZZfpX0jwmLlc+NLgbEUIG83/ep6BpkZ+WJw==",
+  "dgSpecHash": "Fo1ESbkH6K+6rpyxrzs1VcM2kQXPPqDlrohyTppZ3j1wgcB9aHG0BKTb1Ljgdgyu2C8oB0U4kwB/YJr5xvIkmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Genadi\\Desktop\\C# UniProject - Copy\\PlaylistShare\\PlaylistShare\\PlaylistShare.csproj",
+  "projectFilePath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare\\PlaylistShare.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Genadi\\.nuget\\packages\\aspnetcore.healthchecks.uris\\6.0.3\\aspnetcore.healthchecks.uris.6.0.3.nupkg.sha512",
     "C:\\Users\\Genadi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",

@@ -72,7 +72,7 @@ namespace PlaylistShare.Controllers
 
             else
             {
-                return BadRequest("Invalid credentials");
+                return BadRequest("Wrong e-mail and/or password");
             }
 
         }

@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using PlaylistShare.BL.Interfaces;
 using PlaylistShare.DL.Models;
@@ -39,18 +40,21 @@ namespace PlaylistShare.Controllers
         }
 
         [HttpPost("Add")]
+        [Authorize]
         public async Task Add([FromBody] AddPlaylistRequest playlistRequest)
         {
             await _playlistService.Add(playlistRequest);
         }
 
         [HttpPost("Update")]
+        [Authorize]
         public async Task Update([FromBody] UpdatePlaylistRequest playlist)
         {
             await _playlistService.Update(playlist);
         }
 
         [HttpDelete("Delete")]
+        [Authorize]
         public void Delete(DeletePlaylistRequest id)
         {
             _playlistService.Delete(id);
