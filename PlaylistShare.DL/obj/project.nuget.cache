@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m2iA+uxw2RMO+TSER7BSiHLHIAjgcvvmLcIv1KP3SCx+CGfVs8/1Ojn1GFPGTSgxpjuNIIrinGqngsFVMkE2kw==",
+  "dgSpecHash": "asUosOTFyxZmv2hbdkPOAQwdUHfID1jMBAKeeafSQQLknty+IDSuHDkPqf79RFXLcTLWSt66qDgsesQQnFQYvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Genadi\\Desktop\\C# UniProject - Copy\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj",
+  "projectFilePath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Genadi\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Genadi\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

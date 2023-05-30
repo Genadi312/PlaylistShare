@@ -49,19 +49,21 @@ namespace PlaylistShare.Controllers
 
         }
         [HttpPost("Add")]
-      
+        [Authorize]
         public async Task Add([FromBody] AddSongRequest songRequest)
         {
             await _songService.Add(songRequest);
         }
 
         [HttpPost("Update")]
+        [Authorize]
         public async Task Update([FromBody] UpdateSongRequest song)
         {
             await _songService.Update(song);
         }
 
         [HttpDelete("Delete")]
+        [Authorize]
         public async Task Delete([FromBody] DeleteSongRequest id)
         {
             await _songService.Delete(id);
