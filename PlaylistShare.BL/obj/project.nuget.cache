@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+4m2lskbBD8KyREn6XO7YIZ0xviiclxaQFf1+jyl/1hKN1OMY0jAUtxVNCjAHBqYgCbQlR5mQQ2FPl05mKYwg==",
+  "dgSpecHash": "TtI6xj/LKICjhrCTIcDmFhN33rH/EQMolxkrc+Z8WUb5kJA80DXI0P+Pnbf2YDvkZ5TjT0F3adnK62QERIqgVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.BL\\PlaylistShare.BL.csproj",
+  "projectFilePath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.BL\\PlaylistShare.BL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Genadi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Genadi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

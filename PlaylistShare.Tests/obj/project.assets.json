@@ -7499,11 +7499,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Tests\\PlaylistShare.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Tests\\PlaylistShare.Tests.csproj",
       "projectName": "PlaylistShare.Tests",
-      "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Tests\\PlaylistShare.Tests.csproj",
+      "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Tests\\PlaylistShare.Tests.csproj",
       "packagesPath": "C:\\Users\\Genadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Genadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7520,11 +7520,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.BL\\PlaylistShare.BL.csproj": {
-              "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.BL\\PlaylistShare.BL.csproj"
+            "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.BL\\PlaylistShare.BL.csproj": {
+              "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.BL\\PlaylistShare.BL.csproj"
             },
-            "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj": {
-              "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj"
+            "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj": {
+              "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj"
             }
           }
         }

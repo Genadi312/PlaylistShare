@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ka8szQcGqNVWJzgzrk8OilVajbgh5Kg9n1yAQzjeDVdjFWdRqj0u2cQtPDT+33W/IB/bmMSKuGgxa4uxwUhrXg==",
+  "dgSpecHash": "uIX68jTsLdlNVNO5R24F0hr7KkibhqJ8ed0hpqtxsJ0vdavloLIH63lkdA+aPo/0P31QgGPCmqLq0caJIz8KNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj",
+  "projectFilePath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Genadi\\.nuget\\packages\\mongodb.bson\\2.19.2\\mongodb.bson.2.19.2.nupkg.sha512",
     "C:\\Users\\Genadi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"

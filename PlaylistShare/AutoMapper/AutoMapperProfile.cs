@@ -18,6 +18,8 @@ namespace PlaylistShare.AutoMapper
 
             CreateMap<AddUserInfoRequest, UserInfo>();
 
+            CreateMap<UpdateUserInfoRequest, UserInfo>();
+
             CreateMap<AddPlaylistRequest, Playlist>();
 
             CreateMap<UpdatePlaylistRequest, Playlist>();

@@ -1598,11 +1598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj",
+      "projectUniqueName": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj",
       "projectName": "PlaylistShare.DL",
-      "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj",
+      "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.DL\\PlaylistShare.DL.csproj",
       "packagesPath": "C:\\Users\\Genadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.DL\\obj\\",
+      "outputPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.DL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Genadi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1619,8 +1619,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj": {
-              "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj"
+            "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj": {
+              "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj"
             }
           }
         }

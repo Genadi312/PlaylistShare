@@ -7,6 +7,8 @@ using Microsoft.IdentityModel.Tokens;
 using PlaylistShare.BL.Interfaces;
 using PlaylistShare.DL.Models;
 using PlaylistShare.Models.Models.Requests.AddRequests;
+using PlaylistShare.BL.Services;
+using PlaylistShare.Models.Models.Requests.UpdateRequests;
 
 namespace PlaylistShare.Controllers
 {
@@ -74,7 +76,26 @@ namespace PlaylistShare.Controllers
             {
                 return BadRequest("Wrong e-mail and/or password");
             }
-
         }
+
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [HttpGet("GetAllUsers")]
+        public async Task<IActionResult> GetAll()
+        {
+            var result = await _userInfoService.GetAll();
+
+            if (result != null && result.Any()) return Ok(result);
+
+            return NotFound();
+        }
+
+        [HttpPost("Update")]
+            [Authorize]
+            public async Task Update([FromBody] UpdateUserInfoRequest userInfo)
+            {
+                await _userInfoService.Update(userInfo);
+            }
+        
     }
 }
