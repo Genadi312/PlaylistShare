@@ -14,6 +14,6 @@ namespace PlaylistShare.Models.Models.Requests.UpdateRequests
 
         public string Author { get; set; }
 
-        public int PlaylistNumber { get; set; }
+        public Guid PlaylistId { get; set; }
     }
 }
