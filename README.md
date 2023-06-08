@@ -1,6 +1,7 @@
 # PlaylistShare
 Async C# Project for Uni.
 
+Program is running using SwaggerUI.
 The Project contains:
 - 3 layers (Models, Data and Business) which are connected via interfaces.
 
