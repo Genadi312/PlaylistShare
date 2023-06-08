@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using PlaylistShare.DL.Models;
 using PlaylistShare.Models.Models.Requests.AddRequests;
+using PlaylistShare.Models.Models.Requests.DeleteRequests;
 using PlaylistShare.Models.Models.Requests.UpdateRequests;
 
 namespace PlaylistShare.AutoMapper
@@ -11,11 +12,17 @@ namespace PlaylistShare.AutoMapper
         {
             CreateMap<AddSongRequest, Song>();
 
+            CreateMap<UpdateSongRequest, Song>();
+
+            CreateMap<DeleteSongRequest, Song>();
+
+            CreateMap<AddUserInfoRequest, UserInfo>();
+
             CreateMap<AddPlaylistRequest, Playlist>();
 
             CreateMap<UpdatePlaylistRequest, Playlist>();
 
-            CreateMap<UpdateSongRequest, Song>();
+            CreateMap<DeletePlaylistRequest, Playlist>();
         }
     }
 }
