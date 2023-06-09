@@ -97,11 +97,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj",
       "projectName": "PlaylistShare.Models",
-      "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj",
+      "projectPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Models\\PlaylistShare.Models.csproj",
       "packagesPath": "C:\\Users\\Genadi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Genadi\\Desktop\\New folder\\PlaylistShare\\PlaylistShare.Models\\obj\\",
+      "outputPath": "C:\\Users\\Genadi\\Desktop\\New folder (2)\\PlaylistShare\\PlaylistShare.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Genadi\\AppData\\Roaming\\NuGet\\NuGet.Config",

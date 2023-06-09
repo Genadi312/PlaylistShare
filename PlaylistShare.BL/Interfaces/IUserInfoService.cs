@@ -1,12 +1,17 @@
 ﻿using PlaylistShare.DL.Models;
 using PlaylistShare.Models.Models.Requests.AddRequests;
+using PlaylistShare.Models.Models.Requests.UpdateRequests;
 
 namespace PlaylistShare.BL.Interfaces
 {
     public interface IUserInfoService
     {
-        public Task<UserInfo?> GetUserInfoAsync(string userName, string password);
+        Task<UserInfo?> GetUserInfoAsync(string userName, string password);
 
-        public Task Add(AddUserInfoRequest userInfo);
+        Task Add(AddUserInfoRequest userInfo);
+
+        Task<IEnumerable<UserInfo>> GetAll();
+
+        Task Update(UpdateUserInfoRequest user);
     }
 }

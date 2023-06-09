@@ -32,3 +32,20 @@ C:\Users\Genadi\Desktop\New folder\PlaylistShare\PlaylistShare.BL\obj\Debug\net6
 C:\Users\Genadi\Desktop\New folder\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\refint\PlaylistShare.BL.dll
 C:\Users\Genadi\Desktop\New folder\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.pdb
 C:\Users\Genadi\Desktop\New folder\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\ref\PlaylistShare.BL.dll
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\bin\Debug\net6.0\PlaylistShare.BL.deps.json
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\bin\Debug\net6.0\PlaylistShare.BL.dll
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\bin\Debug\net6.0\PlaylistShare.BL.pdb
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\bin\Debug\net6.0\PlaylistShare.DL.dll
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\bin\Debug\net6.0\PlaylistShare.Models.dll
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\bin\Debug\net6.0\PlaylistShare.DL.pdb
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\bin\Debug\net6.0\PlaylistShare.Models.pdb
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.csproj.AssemblyReference.cache
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.AssemblyInfoInputs.cache
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.AssemblyInfo.cs
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.csproj.CoreCompileInputs.cache
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.csproj.CopyComplete
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.dll
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\refint\PlaylistShare.BL.dll
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\PlaylistShare.BL.pdb
+C:\Users\Genadi\Desktop\New folder (2)\PlaylistShare\PlaylistShare.BL\obj\Debug\net6.0\ref\PlaylistShare.BL.dll

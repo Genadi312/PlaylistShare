@@ -36,5 +36,19 @@ namespace PlaylistShare.DL.Repositories.MongoDb
         {
             await _userInfo.InsertOneAsync(user);
         }
+
+        public async Task<IEnumerable<UserInfo>> GetAll()
+        {
+            return await _userInfo.Find(song => true).ToListAsync();
+        }
+
+        public async Task Update(UserInfo userinfo)
+        {
+            var filter = Builders<UserInfo>.Filter.Eq(u=>u.Id, userinfo.Id);
+            var update = Builders<UserInfo>.Update.Set(u => u.Username, userinfo.Username)
+                                                  .Set(u => u.Password, userinfo.Password);
+
+            await _userInfo.UpdateOneAsync(filter, update);
+        }
     }
 }

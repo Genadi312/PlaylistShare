@@ -11,15 +11,14 @@ namespace PlaylistShare.Validators
                                 .NotEmpty()
                                 .WithMessage("Title cannot be empty!");
 
-            RuleFor(x => x.Author.Length).GreaterThan(5)
-                                         .WithMessage("Minimum 5 characters")
-                                         .LessThan(100)
-                                         .WithMessage("Maximum 100 characters");
+            RuleFor(x => x.Author.Length).NotEmpty()
+                                         .WithMessage("Title cannot be empty!");
+
+
             RuleFor(x => x.Album).NotNull()
                                  .NotEmpty()
-                                 .WithMessage("Album cannot be epty!");
+                                 .WithMessage("Album cannot be empty!");
 
         }
     }
-}
 }
